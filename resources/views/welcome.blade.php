@@ -44,7 +44,7 @@
         </div>
 
         <footer align="center">
-            <p>Created by <a href="http://github.com/fagray">fagray</a>. All Rights Reserved</p>
+            <p>Created by <a href="http://github.com/fagray">Danson Serge</a>. All Rights Reserved</p>
         </footer>
     </div>{{-- /container --}}
 
