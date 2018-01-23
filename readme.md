@@ -2,12 +2,15 @@
 
 This starter template is boostrapped with Laravel 5.3, VueJS 2.0, VueRouter,VueResource and so much more !
 
+
 #Features
 
 - Basic Routing with VueRouter 2.0
 - A VueJS Starter Component
 - Web API call with VueResource
 - List Rendering with VueJS
+- Real Time communication with Socket.io
+- Gulp enabled
 
 #Installation
 
